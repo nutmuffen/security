@@ -1,0 +1,551 @@
+[
+  {
+    "numb": 0,
+    "yes": 1,
+    "no": 2,
+    "def": 3,
+    "nextTime": 30,
+    "quest": "Hey, welcome to your first shift. I'll be out of the house for just a couple of hours so I just need you to monitor the place until I'm back. Do you think you can handle that?",
+    "notes": ""
+  },
+  {
+    "numb": 1,
+    "yes": "",
+    "no": "",
+    "def": 3,
+    "nextTime": 8,
+    "quest": "Fantastic! I'll leave the lights on so you can see through the cameras better. I'll be back at 5pm! I left you a bag of cheetos on the table, feel free to help yourself!",
+    "notes": ""
+  },
+  {
+    "numb": 2,
+    "yes": "",
+    "no": "",
+    "def": 3,
+    "nextTime": 8,
+    "quest": "Aww, you'll be fine, my friend. There's nothing in the place worth stealing, I just like having a little extra security around for peace of mind.",
+    "notes": ""
+  },
+  {
+    "numb": 3,
+    "yes": 4,
+    "no": 5,
+    "def": 7,
+    "nextTime": 30,
+    "quest": "If anything comes up, just ring the alarm and I'll contact you immediately. By the way, do you like Cheetos?",
+    "notes": ""
+  },
+  {
+    "numb": 4,
+    "yes": "",
+    "no": "",
+    "def": 7,
+    "nextTime": 10,
+    "quest": "Great. I freaking love Cheetos. I'll make sure to bring enough for the both of us own my way back from the grocery store. I'll talk to you later!",
+    "notes": ""
+  },
+  {
+    "numb": 5,
+    "yes": "",
+    "no": "",
+    "def": 7,
+    "nextTime": 10,
+    "quest": "What? Cheetos are great, dude. Alright, I'll talk to you later.",
+    "notes": ""
+  },
+  {
+    "numb": 6,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 7,
+    "yes": 8,
+    "no": 9,
+    "def": 33,
+    "nextTime": 30,
+    "quest": "Don't you think dogs are adorable?",
+    "notes": "dog pic url"
+  },
+  {
+    "numb": 8,
+    "yes": "",
+    "no": "",
+    "def": 33,
+    "nextTime": 10,
+    "quest": "I know, right? Haha! I'll be back very soon!",
+    "notes": ""
+  },
+  {
+    "numb": 9,
+    "yes": "",
+    "no": "",
+    "def": 33,
+    "nextTime": 10,
+    "quest": ":( I think they're pretty cute, dude.",
+    "notes": ""
+  },
+  {
+    "numb": 10,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 11,
+    "yes": "",
+    "no": 22,
+    "def": "",
+    "nextTime": "",
+    "quest": "Holy crap, is everything okay?",
+    "notes": "Alarm rang"
+  },
+  {
+    "numb": 12,
+    "yes": "",
+    "no": 26,
+    "def": "",
+    "nextTime": "",
+    "quest": "!!! What's up? Is the valuable safe?",
+    "notes": ""
+  },
+  {
+    "numb": 13,
+    "yes": "",
+    "no": 30,
+    "def": "",
+    "nextTime": "",
+    "quest": "Again? Wow. What's going on???",
+    "notes": ""
+  },
+  {
+    "numb": 14,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "This is getting ridiculous. I need to hire more security, show me what's happening.",
+    "notes": ""
+  },
+  {
+    "numb": 15,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "... All in one night? Dear god.",
+    "notes": ""
+  },
+  {
+    "numb": 16,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 17,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "Oh... it was a false alarm...? Let's... try not to do that in the future.",
+    "notes": "w1"
+  },
+  {
+    "numb": 18,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "Nothing, again? I let you slide the first time, but if you mess up one more time I'm going to have to fire you.",
+    "notes": "w2"
+  },
+  {
+    "numb": 19,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "You're fired. Get out, now.",
+    "notes": "LOSE"
+  },
+  {
+    "numb": 20,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 21,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 22,
+    "yes": 23,
+    "no": 24,
+    "def": "",
+    "nextTime": "",
+    "quest": "Hahahaha! Oh thank god, that's just my cat, Waffles. That's my fault, I really should've told you about her. Thanks for ringing the alarm anyways, better safe than sorry, am I right?",
+    "notes": ""
+  },
+  {
+    "numb": 23,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "Glad we're on the same page. Anyways, I'm almost back, so you're good for today. Thanks for everything, you can head home now!",
+    "notes": ""
+  },
+  {
+    "numb": 24,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "Hey, I'd rather a bunch of false alarms than actually having my house broken into, haha. I'm almost back, so go ahead and head home for the day.",
+    "notes": ""
+  },
+  {
+    "numb": 25,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 26,
+    "yes": 27,
+    "no": 28,
+    "def": "",
+    "nextTime": "",
+    "quest": "Woah... that's a little concerning. That's definitely not my cat this time. Thanks a bunch for hitting the alarm, I think you scared them away for now. Do you think it was a person?",
+    "notes": ""
+  },
+  {
+    "numb": 27,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "Who the hell would want to screw me over like this? I gotta give this some thought. Thanks again.",
+    "notes": ""
+  },
+  {
+    "numb": 28,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "Well... I'm gonna have nightmares trying to figure out what it was then. Thanks again.",
+    "notes": ""
+  },
+  {
+    "numb": 29,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 30,
+    "yes": "",
+    "no": "",
+    "def": 31,
+    "nextTime": "",
+    "quest": "Another attempt at my valuable? You've done a mighty fine job tonight, and have earned my trust. In the meantime, it seems I need to come home and sit next to my chest with a freaking shotgun for the next couple of days.",
+    "notes": ""
+  },
+  {
+    "numb": 31,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "Take the day off, go home. Thanks for doing a great job.",
+    "notes": "WIN"
+  },
+  {
+    "numb": 32,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 33,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "Well, that's all I have for now...",
+    "notes": ""
+  },
+  {
+    "numb": 34,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 35,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 36,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 37,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 38,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 39,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 40,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 41,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 42,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 43,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 44,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 45,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 46,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 47,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 48,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 49,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 50,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 51,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 52,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 53,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 54,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 55,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 56,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 57,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 58,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 59,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  },
+  {
+    "numb": 60,
+    "yes": "",
+    "no": "",
+    "def": "",
+    "nextTime": "",
+    "quest": "",
+    "notes": ""
+  }
+]

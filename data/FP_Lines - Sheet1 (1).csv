@@ -1,0 +1,18 @@
+numb,yes,no,def,quest,notes
+1,2,3,4,"Hey, welcome to your first shift. I'll be out of the house for just a couple of hours so I just need you to monitor the place until I'm back. Do you think you can handle that?",
+2,,,,"Fantastic! I'll leave the lights on so you can see through the cameras better. I'll be back at 5pm! I left you a bag of cheetos on the table, feel free to help yourself!",
+3,,,,"Aww, you'll be fine, my friend. There's nothing in the place worth stealing, I just like having a little extra security around for peace of mind.",
+4,5,6,,"If anything comes up, just ring the alarm and I'll contact you immediately. By the way, do you like Cheetos?",
+5,,,,Great. I freaking love Cheetos. I'll make sure to bring enough for the both of us own my way back from the grocery store. I'll talk to you later!,
+6,,,,"What? Cheetos are great, dude. Alright, I'll talk to you later.",
+7,,,,,
+8,9,10,,"Oh my god, look at this pic of this dog! Isn't he adorable? ",dog pic url
+9,,,,"I know, right? Haha! I'll be back very soon!",
+10,,,,:( I think he's cute.,
+11,,,,,
+12,13,14,,"Holy crap, is everything okay?",Alarm rang
+13,,,,I'm connected to the security monitor now. Show me what's up! ,
+14,,,15,,wait for tune
+15,16,17,,"Hahahaha! Oh thank god, that's just my cat, Waffles. That's my fault, I really should've told you about her. Thanks for ringing the alarm anyways, better safe than sorry, am I right?",
+16,,,,"Glad we're on the same page. Anyways, I'm almost back, so you're good for today. Thanks for everything, you can head home now!",
+17,,,,"Hey, I'd rather a bunch of false alarms than actually having my house broken into, haha. I'm almost back, so go ahead and head home for the day. ",
